@@ -18,3 +18,7 @@ Development - this starts a watch and recompiles as needed
 Prod - build and then run
 >npm run build
 npm run start
+
+## LLM Model Inspiration
+
+Modified from [d&d-dungeon-master-assistant](https://ollamahub.com/m/bagellama/d&d-dungeon-master-assistant:latest)
